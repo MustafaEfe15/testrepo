@@ -1,0 +1,12 @@
+1-> winget install -e --id EclipseAdoptium.Temurin.21.JDK
+
+
+2-> winget install --id Git.Git -e
+
+
+
+3-> ssh-keygen -t ed25519 -C "musta4a15@gmail.com"
+
+C:\Users\mefe_/.ssh/id_ed25519
+C:\Users\mefe_/.ssh/id_ed25519.pub
+mefe1_!
